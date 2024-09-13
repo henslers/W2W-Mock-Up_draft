@@ -1,7 +1,7 @@
 objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
 kente,kente.jpg,,,Kente Cloth,unknown,unknown,,,Ghana,46.725562,-117.009633,unknown,unknown,Image;StillImage,image/jpeg,eng,,
-nurnberg,nurnberg.jpg,,,Ruins of Nurnberg,Malcolm Fleming,09-09-1945,,,Germany,56.725562,117.00963,Malcolm Fleming Photograph Collection,unknown,Image;StillImage,image/jpeg,eng,,
-purses,beadedpurses.jpg,,,Beaded Purses,unknown,unknown,,,Belgium; Czechoslovakia; France,56.725562,7.00963,Sage Costume Collection,unknown,Image;StillImage,image/jpeg,eng,,
+nurnberg,nurnberg.jpg,,,Ruins of Nurnberg,Malcolm Fleming,1945,,,Germany,56.725562,117.00963,Malcolm Fleming Photograph Collection,unknown,Image;StillImage,image/jpeg,eng,,
 sepsev,sepsev,,,Bust of Septimius Severus,unknown,unknown,,,Rome,12.0003,40.6354,Eskenazi Art Museum,unknown,Image;StillImage,image/jpeg,eng,,
-figwoman,figure,,,Figure of a Woman,unknown,unknown,,,Aegean Civilization; Greece,34.2,55.8882,Eskenazi Art Museum,unknown,Image;StillImage,image/jpeg,eng,,
-caphope,hope,,,Portrait of Captain Hope,Sir Henry Raeburn,1815,,,Scotland: United Kingdom,11.404,30.4,Eskenazi Art Museum,unknown,Image;StillImage,image/jpeg,eng,,
+figwoman,figwoman,,,Figure of a Woman,unknown,unknown,,,Aegean Civilization; Greece,34.2,55.8882,Eskenazi Art Museum,unknown,Image;StillImage,image/jpeg,eng,,
+caphope,caphope,,,Portrait of Captain Hope,Sir Henry Raeburn,1815,,,Scotland: United Kingdom,11.404,30.4,Eskenazi Art Museum,unknown,Image;StillImage,image/jpeg,eng,,
+peacock,peacock,,,Peacock Oil Lamp,unknown,,,,Byzantine Empire; Turkiye,38.888,20.222,Eskenazi Art Museum,unknown,Image;StillImage,image/jpeg,eng,,
