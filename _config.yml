@@ -41,9 +41,9 @@ metadata: w2w_metadata
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
 organization-name: "Institute for European Studies, Indiana University"
-organization-link: https://assets.iu.edu/
+organization-link: https://www.iu.edu/index.html
 organization-logo-banner: https://assets.iu.edu/brand/3.3.x/brand.css 
-# organization-logo-nav: 
+organization-logo-nav: https://assets.iu.edu/brand/3.3.x/brand.css
 
 ##########
 # ROBOTS EXCLUDE
