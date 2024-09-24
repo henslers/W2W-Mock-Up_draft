@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://w2w.indiana.edu/images/home-banner.png" %}
+{% include feature/jumbotron.html objectid="https://w2w.indiana.edu/images/banner-about-desktop.jpg" %}
 
 {% include feature/nav-menu.html sections="About CollectionBuilder;About the About Page" %}
 
@@ -18,7 +18,7 @@ Founded in 1820, Indiana University Bloomington is the flagship campus of IU’s
 
 ### **The partnership between art and global studies**
 
-| Image | Image |
+| <img src="https://w2w.indiana.edu/images/ghana-map-2-2.png" alt="eskenazi"/> | <img src="https://w2w.indiana.edu/images/ghana-map-2-1.png" alt="HLS building"/> |
 | --- | --- |
 | In 2018, IU launched University Collections, part of a sustained effort to ensure that all of IU’s collections are properly preserved, housed, and made accessible to all members of the IU community, the general public, and scholars everywhere. The Collections center provides all collections with access to share resources, provide training opportunities, and assist in creating necessary plans and policies to ensure the safety and longevity of all collections. | The IU Hamilton Lugar School of Global and International Studies was established in 2012 and named in 2018. Offering the most foreign languages in the country, the HLS provide students with a superior global education, including the #1 fellowships and language Flagship programs in the country. The Hamilton Lugar School combines the study of history, culture, society, and language with a close examination of pressing global issues. |
 | <button class="button">[Learn about art at IU](https://collections.iu.edu/about/index.html) </button> | <button class="button">[Learn about global studies](https://hls.indiana.edu/index.html)</button> |
