@@ -1,4 +1,10 @@
-/* 
-    Put your custom SCSS here! 
-    This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
-*/
+.button {
+    transition: background-color .25s ease-out, color .25s ease-out;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    padding: .5625em 1em;
+    margin: 0 0 1rem 0;
+    background-color: #900;
+    color: #fff;
+}
