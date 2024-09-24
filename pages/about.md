@@ -25,13 +25,16 @@ Founded in 1820, Indiana University Bloomington is the flagship campus of IU’s
 
 ### **Global Departments, Centers and Institutes at IU**  
 | <button class="button">[African Studies Program](https://africanstudies.indiana.edu/index.html)</button> | <button class="button">[Center for Latin American and Caribbean Studies](https://clacs.indiana.edu/?_gl=1*15do015*_ga*MTg5ODUzNDAyMi4xNjYyOTkwOTc2*_ga_61CH0D2DQW*MTY2OTg0MDM4Ni40LjEuMTY2OTg0MTIyOC4wLjAuMA..)</button> | <button class="button">[Dhar India Studies Program](https://indiast.indiana.edu/?_gl=1*15do015*_ga*MTg5ODUzNDAyMi4xNjYyOTkwOTc2*_ga_61CH0D2DQW*MTY2OTg0MDM4Ni40LjEuMTY2OTg0MTIyOC4wLjAuMA..)</button> |
-| :---: | :---: | :---: |  
+| :---: | :---: | :---: |
+|  |  |  |  
 
 | <button class="button">[East Asian Studies Center](https://easc.indiana.edu/index.html)</button> | <button class="button">[Institute for European Studies](https://euro.indiana.edu/?_gl=1*13jobx7*_ga*MTg5ODUzNDAyMi4xNjYyOTkwOTc2*_ga_61CH0D2DQW*MTY2OTg0MDM4Ni40LjEuMTY2OTg0MTMwMi4wLjAuMA..)</button> | <button class="button">[Southeast Asian and ASEAN Studies](https://seas.indiana.edu/?_gl=1*rdz231*_ga*MTg5ODUzNDAyMi4xNjYyOTkwOTc2*_ga_61CH0D2DQW*MTY2OTg0MDM4Ni40LjEuMTY2OTg0MTMwOC4wLjAuMA..)</button> |
-| :---: | :---: | :---: |    
+| :---: | :---: | :---: |
+|  |  |  |    
 
 | <button class="button">[IU Museum of Archaeology and Anthropology](https://iumaa.iu.edu/)</button> | <button class="button">[Lilly Library](https://libraries.indiana.edu/lilly-library)</button> | <button class="button">[IU Archives of Traditional Music](https://libraries.indiana.edu/archives-traditional-music)</button> |
-| :---: | :---: | :---: |    
+| :---: | :---: | :---: |
+|  |  |  |    
 <br>
 
 <center><i> Windows to the World has been made possible in part by grants from the US Department of Education and the National Endowment for the Humanities in partnership with the Social Science Research Council. </i></center>  
