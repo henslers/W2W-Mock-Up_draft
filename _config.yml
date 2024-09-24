@@ -42,8 +42,8 @@ metadata: w2w_metadata
 #
 organization-name: "Institute for European Studies, Indiana University"
 organization-link: https://www.iu.edu/index.html
-organization-logo-banner: https://assets.iu.edu/brand/3.3.x/brand.css 
-organization-logo-nav: https://assets.iu.edu/brand/3.3.x/brand.css
+#organization-logo-banner: https://assets.iu.edu/brand/3.3.x/brand.css 
+#organization-logo-nav: https://assets.iu.edu/brand/3.3.x/brand.css
 
 ##########
 # ROBOTS EXCLUDE
