@@ -32,7 +32,8 @@ Founded in 1820, Indiana University Bloomington is the flagship campus of IU’s
 <br>
 
 <center><i> Windows to the World has been made possible in part by grants from the US Department of Education and the National Endowment for the Humanities in partnership with the Social Science Research Council. </i></center>  
-<center> <img src="https://w2w.indiana.edu/images/ssrc_logo_blue_rgb_stacked-1.png" alt="SSRC" height=200 /> </center>  
+<center> <img src="https://w2w.indiana.edu/images/ssrc_logo_blue_rgb_stacked-1.png" alt="SSRC" height=200 /> </center>    
+
 <center><i> Windows to the World is also grateful for the participation from the Indiana chapter of the National Consortium for Teaching about Asia, generously funded by the Freeman Foundation. </i></center>  
 
 ## About CollectionBuilder
