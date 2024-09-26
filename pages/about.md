@@ -17,7 +17,7 @@ credits: true
 Founded in 1820, Indiana University Bloomington is the flagship campus of IU’s seven campuses and two regional centers statewide. Its mission is to create, disseminate, preserve, and apply knowledge. It does so through its commitments to cutting-edge research, scholarship, arts, and creative activity; to challenging and inspired undergraduate, graduate, professional, and lifelong education; to culturally diverse and international educational programs and communities; to first-rate library and museum collections; to economic development in the state and region; and to meaningful experiences outside the classroom.
 <br> 
 
-<center> ### **The partnership between art and global studies** </center>
+### **The partnership between art and global studies**
 
 | <img src="https://w2w.indiana.edu/images/ghana-map-2-2.png" alt="eskenazi"/> | <img src="https://w2w.indiana.edu/images/ghana-map-2-1.png" alt="HLS building"/> |
 | :---: | :---: |
@@ -30,7 +30,6 @@ Founded in 1820, Indiana University Bloomington is the flagship campus of IU’s
 | :---: | :---: | :---: |  
 | <button class="button">[East Asian Studies Center](https://easc.indiana.edu/index.html)</button> | <button class="button">[Institute for European Studies](https://euro.indiana.edu/?_gl=1*13jobx7*_ga*MTg5ODUzNDAyMi4xNjYyOTkwOTc2*_ga_61CH0D2DQW*MTY2OTg0MDM4Ni40LjEuMTY2OTg0MTMwMi4wLjAuMA..)</button> | <button class="button">[Southeast Asian and ASEAN Studies](https://seas.indiana.edu/?_gl=1*rdz231*_ga*MTg5ODUzNDAyMi4xNjYyOTkwOTc2*_ga_61CH0D2DQW*MTY2OTg0MDM4Ni40LjEuMTY2OTg0MTMwOC4wLjAuMA..)</button> |  
 | <button class="button">[IU Museum of Archaeology and Anthropology](https://iumaa.iu.edu/)</button> | <button class="button">[Lilly Library](https://libraries.indiana.edu/lilly-library)</button> | <button class="button">[IU Archives of Traditional Music](https://libraries.indiana.edu/archives-traditional-music)</button> |  
-   
 <br>
 
 <center><i> Windows to the World has been made possible in part by grants from the US Department of Education and the National Endowment for the Humanities in partnership with the Social Science Research Council. </i></center>  
