@@ -17,7 +17,7 @@ credits: true
 Founded in 1820, Indiana University Bloomington is the flagship campus of IU’s seven campuses and two regional centers statewide. Its mission is to create, disseminate, preserve, and apply knowledge. It does so through its commitments to cutting-edge research, scholarship, arts, and creative activity; to challenging and inspired undergraduate, graduate, professional, and lifelong education; to culturally diverse and international educational programs and communities; to first-rate library and museum collections; to economic development in the state and region; and to meaningful experiences outside the classroom.
 <br> 
 
-### <center> **The partnership between art and global studies** </center>
+<center> ### **The partnership between art and global studies** </center>
 
 | <img src="https://w2w.indiana.edu/images/ghana-map-2-2.png" alt="eskenazi"/> | <img src="https://w2w.indiana.edu/images/ghana-map-2-1.png" alt="HLS building"/> |
 | :---: | :---: |
